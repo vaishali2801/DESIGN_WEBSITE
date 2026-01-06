@@ -1,0 +1,40 @@
+/* text color  */
+.text-pink {
+    color: rgb(238, 78, 105) !important
+}
+
+.text-gray {
+    color: rgb(76, 76, 76);
+}
+
+/* background color  */
+.bg-pink {
+    background-color: pink;
+}
+
+.nav-item a:hover {
+    color: #e1c081;
+}
+
+.ri-search-line:hover {
+    color: #e1c081;
+}
+
+.ri-heart-line:hover {
+    color: #e1c081;
+}
+
+.ri-shopping-bag-3-line:hover {
+    color: #e1c081;
+}
+
+.ri-user-line:hover {
+    color: #e1c081;
+}
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
